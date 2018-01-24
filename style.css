@@ -1,0 +1,175 @@
+body{
+	font-family: Roboto;
+	background-color: #eee;
+}
+
+#navbar a{
+	list-style: none;
+	color: #fff;
+}
+
+.navbar-nav {
+    width: 100%;
+    text-align: center;
+}
+
+.navbar-nav > li {
+      float: none;
+      display: inline-block;
+}
+
+#navbar a:hover { 
+	background-color: darkorange;}
+
+#jumbotron1 {
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+	url(code1.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	padding-top: 200px;
+	height: 662px;
+	color: white;
+	padding-top: 250px;
+}
+
+#about	{
+	margin: 50 50;
+	height: 500px;
+	padding-top: 100px;
+	background-color:#eee;
+	/*color: #FFF9B1;*/
+}
+
+#aboutme {
+	color:#000;
+	margin-top: -30px;
+	font-variant: small-caps; 
+	text-align: center;
+
+}
+
+#desc-about{
+	font-size: 20px;
+	color: #000;
+}
+
+#jumbotron2 {
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+	url(code.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	height: 500px;
+	color: white;
+	padding-top: 200px;
+}
+
+#skill	{
+	height: 300px;
+}
+
+#title_skill {
+	font-variant: small-caps;
+	color: #000;
+}
+
+#skill	ul li{
+	list-style: none;
+}
+
+#front {
+	background-color:#eee;
+	height: 150px;
+	color: #eee;
+/*	margin-bottom: 50px;*/
+	/*opacity: 0.7;*/
+}
+
+#be {
+	background-color:#eee;
+	height: 150px;
+	color: #eee;
+	margin-bottom: 50px;
+	/*opacity: 0.7;*/
+}
+
+#be h3 {
+	color: #000;
+}
+
+#dg {
+	background-color:#eee;
+	height: 150px;
+	color: #eee;
+	margin-bottom: 50px;
+	/*opacity: 0.9;*/
+}
+
+#dg h3 {
+	color: #000;
+}
+
+#bootstrap {
+	padding-top: 5px;
+}
+
+#php img{
+	padding-top: 10px;
+	width: 80px;
+}
+
+#mysql img{
+	padding-top: 10px;
+	width: 80px;
+}
+
+
+#port {
+/*	height: 500px;
+	top:50px;*/
+	padding-top: 50px;
+	background-color:#eee;
+	/*color: #000;*/
+}
+
+#jumbotron3 {
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+	url(bg.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	margin-top: 200px;
+	height: 500px;
+	color: white;
+}
+
+#portofolio {
+	width: 450px;
+	height: 400px; 
+	padding-top:10px;
+
+}
+
+#contact {
+	height: 600px;
+}
+
+.media img {
+	width: 50px;
+}
+
+footer	{
+	height: 150px;
+	color: #000;
+	background-color: #FF5E00;
+	padding-top: 20px;
+	background-attachment: fixed;
+}
+
+footer img {
+	padding:15px;
+	text-decoration: none;
+}
+
+#copyright {
+	color: white;
+	padding-top: 17px;
+}

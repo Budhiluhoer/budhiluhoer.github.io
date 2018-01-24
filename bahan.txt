@@ -1,0 +1,14 @@
+NAV
+Home
+Exprience
+Contact
+Education
+
+header : navigasi(link/sesi)
+banner : foto,nama,karir | parallax,slider
+deskripsi : perkenalan singkat
+kemampuan :skill
+pendidikan : sd,smp,sma,kampus
+portfolio : karya web,desain
+kontak : fb,wa,github,linkedin,youtube,gmail
+footer
